@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/arrays.xml -->
+
+<resources>
+
+    <!-- Type Options -->
+    <string-array name="type_options">
+        <item>Amphi</item>
+        <item>Salle de cours</item>
+        <item>Labo</item>
+        <!-- Add more options as needed -->
+    </string-array>
+
+
+</resources>

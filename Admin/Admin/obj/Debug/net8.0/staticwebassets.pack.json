@@ -1,0 +1,853 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Admin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Admin.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\Images\\Products\\473515d3-5c43-4f7a-8a97-0ec517c5b8e4_WIN_20231029_21_53_07_Pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\473515d3-5c43-4f7a-8a97-0ec517c5b8e4_WIN_20231029_21_53_07_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\Images\\Products\\5a13c4a8-6f9b-4994-8c05-ceb63d433a99_WIN_20231022_20_27_11_Pro.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\5a13c4a8-6f9b-4994-8c05-ceb63d433a99_WIN_20231022_20_27_11_Pro.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\Images\\Products\\96d403e2-b59e-4c97-958e-a0c6496e4ad7_WIN_20231124_18_09_48_Pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\96d403e2-b59e-4c97-958e-a0c6496e4ad7_WIN_20231124_18_09_48_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\Images\\Products\\ad65822b-d09c-4318-ab58-9ca7dd0933e5_WIN_20231124_18_09_48_Pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ad65822b-d09c-4318-ab58-9ca7dd0933e5_WIN_20231124_18_09_48_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\04727cf4-bac6-4470-ad4a-a61ca44476a7_tempFile1610533769895481445.docx",
+      "PackagePath": "staticwebassets\\files\\assignments\\04727cf4-bac6-4470-ad4a-a61ca44476a7_tempFile1610533769895481445.docx"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\06e82fc5-c0b9-4e65-be72-80446a91fcd1_jcc_17.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\06e82fc5-c0b9-4e65-be72-80446a91fcd1_jcc_17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\0da10b83-caaa-4fce-82f7-89382197adc6_ll.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\0da10b83-caaa-4fce-82f7-89382197adc6_ll.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\12110e51-4de6-413d-a532-c61f50991572_UML class.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\12110e51-4de6-413d-a532-c61f50991572_UML class.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\151e98e8-87c3-4607-850a-ecbc35fb06ff_Screenshot_2024-01-29-16-14-10-31_be80aec1db9a2b53c9d399db0c602181.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\151e98e8-87c3-4607-850a-ecbc35fb06ff_Screenshot_2024-01-29-16-14-10-31_be80aec1db9a2b53c9d399db0c602181.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\160628cb-aae6-4956-9b00-45958ae4ba79_image.jpg.png",
+      "PackagePath": "staticwebassets\\files\\assignments\\160628cb-aae6-4956-9b00-45958ae4ba79_image.jpg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\16241594-ae13-4ef1-b7b0-68ae23a96ae0_Liste-des-facultés (1).txt",
+      "PackagePath": "staticwebassets\\files\\assignments\\16241594-ae13-4ef1-b7b0-68ae23a96ae0_Liste-des-facultés (1).txt"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\185c9c00-974e-480b-bfa3-4ba7a8236a7d_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\185c9c00-974e-480b-bfa3-4ba7a8236a7d_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\18d7721c-9c0e-48ad-bf62-d5aa5eb599af_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\18d7721c-9c0e-48ad-bf62-d5aa5eb599af_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\1a0c1e4f-295b-4973-b9c7-465c3a75e930_image.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\1a0c1e4f-295b-4973-b9c7-465c3a75e930_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\1bf71632-626d-4e03-addf-0e96eff32402_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\1bf71632-626d-4e03-addf-0e96eff32402_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\1d714695-0d49-45db-a3e0-486acf9e0580_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\1d714695-0d49-45db-a3e0-486acf9e0580_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\1eabd8f1-5b7f-41cc-9f38-c216ec1f898b_ANDROMEDA_USER_MANUAL.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\1eabd8f1-5b7f-41cc-9f38-c216ec1f898b_ANDROMEDA_USER_MANUAL.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\212d054d-9c57-4a3c-a064-7dff7036626e_tempFile8210996174826734496.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\212d054d-9c57-4a3c-a064-7dff7036626e_tempFile8210996174826734496.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\2488fd7d-c315-45c2-8437-aeb2c4ce40e0_tempFile2849315376335056126.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\2488fd7d-c315-45c2-8437-aeb2c4ce40e0_tempFile2849315376335056126.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\26895260-409c-40da-8358-b06ad8e8b2c2_IMG20240201154407.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\26895260-409c-40da-8358-b06ad8e8b2c2_IMG20240201154407.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\26a7b158-7845-4ece-8e2d-6bcd53f82d11_ANDROMEDA_USER_MANUAL.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\26a7b158-7845-4ece-8e2d-6bcd53f82d11_ANDROMEDA_USER_MANUAL.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\2760b928-03c8-4835-b2a6-88376f66f5cd_img20240112_17191732.png",
+      "PackagePath": "staticwebassets\\files\\assignments\\2760b928-03c8-4835-b2a6-88376f66f5cd_img20240112_17191732.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\28f8582a-25c7-4193-84dd-67dfd9e1bd90_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\28f8582a-25c7-4193-84dd-67dfd9e1bd90_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\2963eead-81c9-41f7-9523-d2eb14317e77_415298033_279335918476967_7140060815594320638_n.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\2963eead-81c9-41f7-9523-d2eb14317e77_415298033_279335918476967_7140060815594320638_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\2af73f58-e83f-43bd-ac44-df3494a2a7aa_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\2af73f58-e83f-43bd-ac44-df3494a2a7aa_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\2bc6aac1-dfe0-4110-a066-7e2b1cf74a07_Screenshot_2024-02-01-16-26-42-83_1c337646f29875672b5a61192b9010f9.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\2bc6aac1-dfe0-4110-a066-7e2b1cf74a07_Screenshot_2024-02-01-16-26-42-83_1c337646f29875672b5a61192b9010f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\2cba6e3d-2403-4b9b-957c-2dccd1dfbff9_received_337762849079372.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\2cba6e3d-2403-4b9b-957c-2dccd1dfbff9_received_337762849079372.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\2e10ae93-79ba-457d-86c0-cbf3827f69d3_orca-image--918958666.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\2e10ae93-79ba-457d-86c0-cbf3827f69d3_orca-image--918958666.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\3171ad1f-1e4a-4591-81c5-5c16c35aadc6_received_382195164310531.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\3171ad1f-1e4a-4591-81c5-5c16c35aadc6_received_382195164310531.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\3440d5d4-0a54-4401-b0d0-8e8a4103adc8_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\3440d5d4-0a54-4401-b0d0-8e8a4103adc8_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\36be1450-54e8-4159-99ae-215843c333f5_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\36be1450-54e8-4159-99ae-215843c333f5_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\37e0a2cd-473a-4183-87e6-6e033b178119_ll.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\37e0a2cd-473a-4183-87e6-6e033b178119_ll.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\37f8ca2d-8c96-4dd9-ba7e-b7e4c5954bb9_ANDROMEDA_USER_MANUAL.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\37f8ca2d-8c96-4dd9-ba7e-b7e4c5954bb9_ANDROMEDA_USER_MANUAL.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\40381332-222c-4fa4-a564-67d1e7b4647c_for.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\40381332-222c-4fa4-a564-67d1e7b4647c_for.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\406fae61-675f-421b-95bb-cdceb15e7684_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\406fae61-675f-421b-95bb-cdceb15e7684_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\41899042-0f27-477f-9574-fa1b4b44894f_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\41899042-0f27-477f-9574-fa1b4b44894f_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\41c2ffba-0a6c-4110-8ea5-8ec919775243_tempFile1715914968760668341.mp4",
+      "PackagePath": "staticwebassets\\files\\assignments\\41c2ffba-0a6c-4110-8ea5-8ec919775243_tempFile1715914968760668341.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\45280bda-6647-4c0f-b0db-5cd6c47b29a1_ANDROMEDA_USER_MANUAL.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\45280bda-6647-4c0f-b0db-5cd6c47b29a1_ANDROMEDA_USER_MANUAL.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\45ddfe20-e12d-477c-baf7-ebe3fb73a66e_tempFile563747072818327666.docx",
+      "PackagePath": "staticwebassets\\files\\assignments\\45ddfe20-e12d-477c-baf7-ebe3fb73a66e_tempFile563747072818327666.docx"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\48a49069-73da-4f95-8fe9-c10275582948_image.jpg (1).png",
+      "PackagePath": "staticwebassets\\files\\assignments\\48a49069-73da-4f95-8fe9-c10275582948_image.jpg (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\4b2f39ca-9663-47ee-b078-6ddb54ec6f22_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\4b2f39ca-9663-47ee-b078-6ddb54ec6f22_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\4cd492dd-53f9-4dcb-9101-9c1b5b78e2bb_FB_IMG_1704541577199.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\4cd492dd-53f9-4dcb-9101-9c1b5b78e2bb_FB_IMG_1704541577199.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\5227899c-5dbd-4b10-ae68-8da5ee32070c_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\5227899c-5dbd-4b10-ae68-8da5ee32070c_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\5314df21-6347-418d-bfdd-eb7e3ce173e9_ZAANOUNI AYOUB.pdf.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\5314df21-6347-418d-bfdd-eb7e3ce173e9_ZAANOUNI AYOUB.pdf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\53a0bba6-5a18-4363-b854-7abd3363f418_Andromeda Product page EN.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\53a0bba6-5a18-4363-b854-7abd3363f418_Andromeda Product page EN.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\56a5007e-48d9-4abf-821b-afd6405e898d_temp_file",
+      "PackagePath": "staticwebassets\\files\\assignments"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\59a3743f-0592-4258-83bb-2e608ce2b11f_Andromeda Product page EN.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\59a3743f-0592-4258-83bb-2e608ce2b11f_Andromeda Product page EN.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\59d58cc0-f0e2-4073-8ec2-508244b01da7_lettre-de-recommendation-ahmed-zwawi.docx",
+      "PackagePath": "staticwebassets\\files\\assignments\\59d58cc0-f0e2-4073-8ec2-508244b01da7_lettre-de-recommendation-ahmed-zwawi.docx"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\5a052c2e-91ae-427d-aa0b-3cb3263aa466_tempFile5959834964296793290.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\5a052c2e-91ae-427d-aa0b-3cb3263aa466_tempFile5959834964296793290.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\5c0f1bb8-ffaa-496c-a17f-71c810f5fa12_orca-image--918958666.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\5c0f1bb8-ffaa-496c-a17f-71c810f5fa12_orca-image--918958666.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\5fc7a0bb-f768-4f00-b9b2-91fa0eb355cd_received_287566454294079.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\5fc7a0bb-f768-4f00-b9b2-91fa0eb355cd_received_287566454294079.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\600329ec-6df2-4a58-805f-d08928d99a7b_tempFile3207853914339365195.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\600329ec-6df2-4a58-805f-d08928d99a7b_tempFile3207853914339365195.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\620cee9d-14ee-42ce-b5b1-b5dfea0ab67f_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\620cee9d-14ee-42ce-b5b1-b5dfea0ab67f_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\68aca0c6-7c49-444e-a185-85971f3273d0_received_287566454294079.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\68aca0c6-7c49-444e-a185-85971f3273d0_received_287566454294079.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\6a38d7ea-8b7c-4476-a581-e309530f46f0_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\6a38d7ea-8b7c-4476-a581-e309530f46f0_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\6b634c70-5b27-4dd0-8a80-553b69689bd5_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\6b634c70-5b27-4dd0-8a80-553b69689bd5_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\6dbdde23-b4aa-4705-9d44-6bcaab1325c6_IMG20240125012330.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\6dbdde23-b4aa-4705-9d44-6bcaab1325c6_IMG20240125012330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\7119a7b8-11e5-4f44-877b-29d54e1967f4_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\7119a7b8-11e5-4f44-877b-29d54e1967f4_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\71aaf149-4b58-41d9-b87f-69870947ce53_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\71aaf149-4b58-41d9-b87f-69870947ce53_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\7379037f-3274-4fab-a0d3-56926ffc7775_Screenshot_2024-01-23-01-55-53-61_e307a3f9df9f380ebaf106e1dc980bb6.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\7379037f-3274-4fab-a0d3-56926ffc7775_Screenshot_2024-01-23-01-55-53-61_e307a3f9df9f380ebaf106e1dc980bb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\76616f63-0782-4fb0-b802-595515406d63_ll.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\76616f63-0782-4fb0-b802-595515406d63_ll.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\779bde8e-b5f2-450f-9c4f-c50e1ba9ad18_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\779bde8e-b5f2-450f-9c4f-c50e1ba9ad18_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\7f89eef0-00a0-4acf-aba1-75a69a8e84fb_image.jpg.png",
+      "PackagePath": "staticwebassets\\files\\assignments\\7f89eef0-00a0-4acf-aba1-75a69a8e84fb_image.jpg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\81bf9fe6-7bed-44c3-aba8-700bc67af1b7_FB_IMG_1704822748981.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\81bf9fe6-7bed-44c3-aba8-700bc67af1b7_FB_IMG_1704822748981.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\8399d29e-623e-48f9-b82d-79636e435e0d_image.jpg.png",
+      "PackagePath": "staticwebassets\\files\\assignments\\8399d29e-623e-48f9-b82d-79636e435e0d_image.jpg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\86478c04-23c0-45b0-92fc-8217b5d120d4_lettre-de-recommendation-ahmed-zwawi.docx",
+      "PackagePath": "staticwebassets\\files\\assignments\\86478c04-23c0-45b0-92fc-8217b5d120d4_lettre-de-recommendation-ahmed-zwawi.docx"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\870f5744-b12f-4a67-bf3c-e0c63399a555_orca-image--918958666.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\870f5744-b12f-4a67-bf3c-e0c63399a555_orca-image--918958666.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\87b33e04-711e-4624-beaa-ac65790cce02_received_903045791208359.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\87b33e04-711e-4624-beaa-ac65790cce02_received_903045791208359.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\8a170175-108f-429c-8971-565b9b05292c_tempFile1924550849562585937.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\8a170175-108f-429c-8971-565b9b05292c_tempFile1924550849562585937.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\8a27eebb-272d-47a8-8d9d-478dcb4f326c_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\8a27eebb-272d-47a8-8d9d-478dcb4f326c_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\8bc77568-9862-4410-81e5-40820225aff9_ll.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\8bc77568-9862-4410-81e5-40820225aff9_ll.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\8c0efee0-1864-440a-a194-586eb0f618da_lettre-de-recommendation-ahmed-zwawi.docx",
+      "PackagePath": "staticwebassets\\files\\assignments\\8c0efee0-1864-440a-a194-586eb0f618da_lettre-de-recommendation-ahmed-zwawi.docx"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\8c2120d0-dbf3-4944-994c-777fa07aa149_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\8c2120d0-dbf3-4944-994c-777fa07aa149_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\8e1b3f0b-a9aa-454f-8cc6-b9aeda0ead78_image.jpg (1).png",
+      "PackagePath": "staticwebassets\\files\\assignments\\8e1b3f0b-a9aa-454f-8cc6-b9aeda0ead78_image.jpg (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\8e9c64d0-ea0d-4866-b94d-144058473fa3_Andromeda Product page EN.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\8e9c64d0-ea0d-4866-b94d-144058473fa3_Andromeda Product page EN.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\934238ef-1a83-497a-a09c-24ac01909157_received_275857782180568.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\934238ef-1a83-497a-a09c-24ac01909157_received_275857782180568.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\952c0689-894d-48f1-a3f6-065e3182dbfe_share_2023-12-28_13_48_33_041.jpeg_2023-12-28_13_48_33.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\952c0689-894d-48f1-a3f6-065e3182dbfe_share_2023-12-28_13_48_33_041.jpeg_2023-12-28_13_48_33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\95e61ac7-72c3-44d1-98c2-e570d4f20c63_share_2023-12-28_13_48_33_041.jpeg_2023-12-28_13_48_33.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\95e61ac7-72c3-44d1-98c2-e570d4f20c63_share_2023-12-28_13_48_33_041.jpeg_2023-12-28_13_48_33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\976925e4-5579-4abc-b8c8-81221a551bc1_share_2023-12-28_13_48_43_154.jpeg_2023-12-28_13_48_43.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\976925e4-5579-4abc-b8c8-81221a551bc1_share_2023-12-28_13_48_43_154.jpeg_2023-12-28_13_48_43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\98943802-c80c-4d33-a383-e8cc91041daf_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\98943802-c80c-4d33-a383-e8cc91041daf_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\98eb03b5-c2e2-4c42-b0f9-993e293856a4_image.jpg (1).png",
+      "PackagePath": "staticwebassets\\files\\assignments\\98eb03b5-c2e2-4c42-b0f9-993e293856a4_image.jpg (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\9a32d813-0f30-4029-9284-ab0761bd84ef_tempFile1039574612042251067.tmp",
+      "PackagePath": "staticwebassets\\files\\assignments\\9a32d813-0f30-4029-9284-ab0761bd84ef_tempFile1039574612042251067.tmp"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\9c7b1307-eea6-4fd8-a732-415918b2c4e0_Screenshot_2024-01-23-01-55-53-61_e307a3f9df9f380ebaf106e1dc980bb6.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\9c7b1307-eea6-4fd8-a732-415918b2c4e0_Screenshot_2024-01-23-01-55-53-61_e307a3f9df9f380ebaf106e1dc980bb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\a30ad20c-e355-430d-afd6-f7d1009f43d5_Screenshot_2024-01-30-19-15-04-49_f9ee0578fe1cc94de7482bd41accb329.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\a30ad20c-e355-430d-afd6-f7d1009f43d5_Screenshot_2024-01-30-19-15-04-49_f9ee0578fe1cc94de7482bd41accb329.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\a7fc1b60-e321-4461-b18f-bf64f6d1ecda_Copy of Copy of Copy of Copy of Copy of A (1).pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\a7fc1b60-e321-4461-b18f-bf64f6d1ecda_Copy of Copy of Copy of Copy of Copy of A (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\aa0bbdd1-584d-4370-a74d-6eb3a1af0817_logo_face_book.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\aa0bbdd1-584d-4370-a74d-6eb3a1af0817_logo_face_book.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\ac362d40-a893-41e1-95b2-63b113443e16_FB_IMG_1704822748981.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\ac362d40-a893-41e1-95b2-63b113443e16_FB_IMG_1704822748981.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\acee6e4f-694b-456e-96fc-10040d8fd0b3_Buff Achievement Tracker - Installer (1).exe",
+      "PackagePath": "staticwebassets\\files\\assignments\\acee6e4f-694b-456e-96fc-10040d8fd0b3_Buff Achievement Tracker - Installer (1).exe"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\ad2ff322-1170-428a-a6a5-36a1008e786e_Liste-des-facultés (1).txt",
+      "PackagePath": "staticwebassets\\files\\assignments\\ad2ff322-1170-428a-a6a5-36a1008e786e_Liste-des-facultés (1).txt"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\af2f439c-2292-4f70-9aaa-d757f3990033_IMG_20231231_131251_927.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\af2f439c-2292-4f70-9aaa-d757f3990033_IMG_20231231_131251_927.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\b0297535-68b2-46ae-aa4f-5f86e1d0da97_share_2023-12-28_13_48_43_154.jpeg_2023-12-28_13_48_43.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\b0297535-68b2-46ae-aa4f-5f86e1d0da97_share_2023-12-28_13_48_43_154.jpeg_2023-12-28_13_48_43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\b1cd0978-2ddc-4c27-a337-f7196d71c778_IMG20240201154407.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\b1cd0978-2ddc-4c27-a337-f7196d71c778_IMG20240201154407.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\b2a9bebf-082c-4d5f-99e8-6bdf15ae179c_Screenshot_2024-02-01-16-12-35-92_1c337646f29875672b5a61192b9010f9.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\b2a9bebf-082c-4d5f-99e8-6bdf15ae179c_Screenshot_2024-02-01-16-12-35-92_1c337646f29875672b5a61192b9010f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\b417b664-e602-4570-9097-5381cf50b4b7_jcc_17.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\b417b664-e602-4570-9097-5381cf50b4b7_jcc_17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\b459b906-f350-4947-b49b-7b08f1aeb514_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\b459b906-f350-4947-b49b-7b08f1aeb514_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\bf56ef3b-326e-4933-90b9-90671363615c_Screenshot_2023-12-30-01-42-20-25_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\bf56ef3b-326e-4933-90b9-90671363615c_Screenshot_2023-12-30-01-42-20-25_40deb401b9ffe8e1df2f1cc5ba480b12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\bfe215b9-52f0-4850-b6d6-c3991abeb360_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\bfe215b9-52f0-4850-b6d6-c3991abeb360_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\c102dac3-f1d7-42c0-a570-492ffcf3f5f2_temp_file",
+      "PackagePath": "staticwebassets\\files\\assignments"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\c14a20dd-3a53-430f-9daf-5d1eb884ad71_received_3652319261710677.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\c14a20dd-3a53-430f-9daf-5d1eb884ad71_received_3652319261710677.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\c20a1896-ce9f-4c57-ba77-77e40817d701_UML class.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\c20a1896-ce9f-4c57-ba77-77e40817d701_UML class.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\c3290abd-6f6d-4644-b885-7c16470a1089_received_332534783061744.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\c3290abd-6f6d-4644-b885-7c16470a1089_received_332534783061744.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\c3cdacbc-013b-45df-a9db-9da21a0cea3b_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\c3cdacbc-013b-45df-a9db-9da21a0cea3b_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\c3ec2519-609b-4838-9591-5eaa7db576ce_Screenshot_2024-01-19-19-25-30-33_e307a3f9df9f380ebaf106e1dc980bb6.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\c3ec2519-609b-4838-9591-5eaa7db576ce_Screenshot_2024-01-19-19-25-30-33_e307a3f9df9f380ebaf106e1dc980bb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\c5673cf7-8926-49b3-ad55-d393902730ad_Screenshot_2024-01-23-01-55-53-61_e307a3f9df9f380ebaf106e1dc980bb6.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\c5673cf7-8926-49b3-ad55-d393902730ad_Screenshot_2024-01-23-01-55-53-61_e307a3f9df9f380ebaf106e1dc980bb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\c91df837-4482-4153-83f6-d553f6a9f6c2_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\c91df837-4482-4153-83f6-d553f6a9f6c2_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\ca435ff6-0e13-44d6-8043-f6d984ee1092_FB_IMG_1706267871634.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\ca435ff6-0e13-44d6-8043-f6d984ee1092_FB_IMG_1706267871634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\ca83b8f4-8ce3-4176-8da4-1562519fe201_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\ca83b8f4-8ce3-4176-8da4-1562519fe201_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\cd0c38e3-42ff-46ab-a375-79be70c83d79_IMAGE_20240112150220.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\cd0c38e3-42ff-46ab-a375-79be70c83d79_IMAGE_20240112150220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\d3ef3db1-d183-46e5-939f-07d9c09528ec_share_2023-12-28_13_48_33_041.jpeg_2023-12-28_13_48_33.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\d3ef3db1-d183-46e5-939f-07d9c09528ec_share_2023-12-28_13_48_33_041.jpeg_2023-12-28_13_48_33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\d3f9573f-ca37-47fc-b67b-84f7f0e22c66_received_890380045859081.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\d3f9573f-ca37-47fc-b67b-84f7f0e22c66_received_890380045859081.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\d4484ad7-fe2f-4263-a3b8-26b0062e7238_UML class.png",
+      "PackagePath": "staticwebassets\\files\\assignments\\d4484ad7-fe2f-4263-a3b8-26b0062e7238_UML class.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\d5255a80-1c85-4b08-986e-2f95b9b278a0_received_2350471638494078.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\d5255a80-1c85-4b08-986e-2f95b9b278a0_received_2350471638494078.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\d7672251-861b-4ed1-8eca-eb7386c4917e_img20240112_17191732.png",
+      "PackagePath": "staticwebassets\\files\\assignments\\d7672251-861b-4ed1-8eca-eb7386c4917e_img20240112_17191732.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\d7c4f786-6016-40a9-9264-5b5cd16977f9_share_2023-12-28_13_37_12_679.jpeg_2023-12-28_13_37_12.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\d7c4f786-6016-40a9-9264-5b5cd16977f9_share_2023-12-28_13_37_12_679.jpeg_2023-12-28_13_37_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\dac0fcb1-be0a-4410-b9e5-3cbefd8a6f03_share_2023-12-28_13_48_43_154.jpeg_2023-12-28_13_48_43.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\dac0fcb1-be0a-4410-b9e5-3cbefd8a6f03_share_2023-12-28_13_48_43_154.jpeg_2023-12-28_13_48_43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\dd9bedd2-184e-4da7-807e-e3a72084c961_for.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\dd9bedd2-184e-4da7-807e-e3a72084c961_for.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\dd9f3b29-eb54-4fd2-a7d0-925ae8043b23_received_890380045859081.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\dd9f3b29-eb54-4fd2-a7d0-925ae8043b23_received_890380045859081.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\de363ce5-452e-4ddc-b31e-1d1d66283e4e_received_275857782180568.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\de363ce5-452e-4ddc-b31e-1d1d66283e4e_received_275857782180568.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\e1b76167-6d20-4b12-9e88-ce1e0b34fae9_tempFile4617281302493791064.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\e1b76167-6d20-4b12-9e88-ce1e0b34fae9_tempFile4617281302493791064.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\e3c98540-17aa-4f45-bbe9-bd331ed360a6_img20240112_17191732.png",
+      "PackagePath": "staticwebassets\\files\\assignments\\e3c98540-17aa-4f45-bbe9-bd331ed360a6_img20240112_17191732.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\e63be181-243a-405f-92be-20ff9613b842_orca-image--918958666.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\e63be181-243a-405f-92be-20ff9613b842_orca-image--918958666.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\e6b4efd2-ac92-42e7-9dec-e6b7e0cb17fb_temp_file",
+      "PackagePath": "staticwebassets\\files\\assignments"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\ecd7e482-1686-4faa-9468-5362839d28d2_WIN_20231124_18_09_48_Pro.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\ecd7e482-1686-4faa-9468-5362839d28d2_WIN_20231124_18_09_48_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\eea28aeb-25bb-4964-83b9-10b04f2a157f_Copy of Copy of Copy of Copy of Copy of A (1).pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\eea28aeb-25bb-4964-83b9-10b04f2a157f_Copy of Copy of Copy of Copy of Copy of A (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\efc3a176-35bb-4302-97c4-af5baa7cc813_FB_IMG_1704822748981.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\efc3a176-35bb-4302-97c4-af5baa7cc813_FB_IMG_1704822748981.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\f0594cdb-0561-4e70-9054-43a8a3e04afa_received_3652319261710677.jpeg",
+      "PackagePath": "staticwebassets\\files\\assignments\\f0594cdb-0561-4e70-9054-43a8a3e04afa_received_3652319261710677.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\f30d6ada-0071-46b1-8b29-2438e813aaf6_415298033_279335918476967_7140060815594320638_n.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\f30d6ada-0071-46b1-8b29-2438e813aaf6_415298033_279335918476967_7140060815594320638_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\f4e52084-4e25-48f1-8609-235422c638b8_FB_IMG_1704019019815.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\f4e52084-4e25-48f1-8609-235422c638b8_FB_IMG_1704019019815.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\f9522ebe-ac5c-419f-b365-08b0b4f2f955_tempFile3442612949306582372.tmp",
+      "PackagePath": "staticwebassets\\files\\assignments\\f9522ebe-ac5c-419f-b365-08b0b4f2f955_tempFile3442612949306582372.tmp"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\f9a74efb-cfb2-47a0-8b1f-56de7b10effe_ll.pdf",
+      "PackagePath": "staticwebassets\\files\\assignments\\f9a74efb-cfb2-47a0-8b1f-56de7b10effe_ll.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\fa8407ff-853e-4b6a-ac2f-67f61ffaf734_lettre-de-recommendation-ahmed-zwawi.docx",
+      "PackagePath": "staticwebassets\\files\\assignments\\fa8407ff-853e-4b6a-ac2f-67f61ffaf734_lettre-de-recommendation-ahmed-zwawi.docx"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\fb576968-9da6-4735-8763-d8d8e3aade5f_415298033_279335918476967_7140060815594320638_n.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\fb576968-9da6-4735-8763-d8d8e3aade5f_415298033_279335918476967_7140060815594320638_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\assignments\\fc4b1c03-e41a-47d8-a2d5-2bdbd4753251_FB_IMG_1706096299083.jpg",
+      "PackagePath": "staticwebassets\\files\\assignments\\fc4b1c03-e41a-47d8-a2d5-2bdbd4753251_FB_IMG_1706096299083.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\depots\\4c4ce044-cebb-4cb6-b45e-1bf2efd5c333_tempFile2677419480933180722.png",
+      "PackagePath": "staticwebassets\\files\\depots\\4c4ce044-cebb-4cb6-b45e-1bf2efd5c333_tempFile2677419480933180722.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\depots\\521eccfe-aee4-4a78-8969-8445b36c27fe_59d58cc0-f0e2-4073-8ec2-508244b01da7_lettre-de-recommendation-ahmed-zwawi.docx",
+      "PackagePath": "staticwebassets\\files\\depots\\521eccfe-aee4-4a78-8969-8445b36c27fe_59d58cc0-f0e2-4073-8ec2-508244b01da7_lettre-de-recommendation-ahmed-zwawi.docx"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\depots\\6f3c5a09-4ecc-4b0e-b8f8-bc8cc2cf5f4c_tempFile95321322360695165.jpg",
+      "PackagePath": "staticwebassets\\files\\depots\\6f3c5a09-4ecc-4b0e-b8f8-bc8cc2cf5f4c_tempFile95321322360695165.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\depots\\7a4a6774-89d8-4d11-bbae-9dab4b34a8f4_tempFile7910676247227440589.jpg",
+      "PackagePath": "staticwebassets\\files\\depots\\7a4a6774-89d8-4d11-bbae-9dab4b34a8f4_tempFile7910676247227440589.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\depots\\98b29381-3574-40b0-a755-edcd5727800b_59d58cc0-f0e2-4073-8ec2-508244b01da7_lettre-de-recommendation-ahmed-zwawi.docx",
+      "PackagePath": "staticwebassets\\files\\depots\\98b29381-3574-40b0-a755-edcd5727800b_59d58cc0-f0e2-4073-8ec2-508244b01da7_lettre-de-recommendation-ahmed-zwawi.docx"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\depots\\b1b19b6d-bac2-4e91-93f4-1f073318e0e4_Ayoub Zaanouni CV (7).pdf",
+      "PackagePath": "staticwebassets\\files\\depots\\b1b19b6d-bac2-4e91-93f4-1f073318e0e4_Ayoub Zaanouni CV (7).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\depots\\b2b3a0da-a55b-47ec-bf3a-1770fedc0ac0_exercicesCorrige-enitab.pdf",
+      "PackagePath": "staticwebassets\\files\\depots\\b2b3a0da-a55b-47ec-bf3a-1770fedc0ac0_exercicesCorrige-enitab.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\depots\\f7e773dc-fc10-4242-80d7-4745486e771c_Andromeda Product page EN.pdf",
+      "PackagePath": "staticwebassets\\files\\depots\\f7e773dc-fc10-4242-80d7-4745486e771c_Andromeda Product page EN.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\depots\\f95646e0-899e-47fa-8332-5a2bb3a16843_UML class.png",
+      "PackagePath": "staticwebassets\\files\\depots\\f95646e0-899e-47fa-8332-5a2bb3a16843_UML class.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\files\\depots\\f990f61e-e4f8-480d-8036-fbf7f88d52df_jcc_17.jpg",
+      "PackagePath": "staticwebassets\\files\\depots\\f990f61e-e4f8-480d-8036-fbf7f88d52df_jcc_17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\uploads\\03a0575a-24eb-4ba3-b0fb-d0b436a92247_jcc_17.jpg",
+      "PackagePath": "staticwebassets\\uploads\\03a0575a-24eb-4ba3-b0fb-d0b436a92247_jcc_17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\uploads\\43da6b9c-4bbc-4f29-ab48-fb4748662e90_unnamed (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\43da6b9c-4bbc-4f29-ab48-fb4748662e90_unnamed (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\uploads\\4ad19cdc-3adb-49a9-ba2a-9e11faec692c_IMG20240126140148.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4ad19cdc-3adb-49a9-ba2a-9e11faec692c_IMG20240126140148.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\me\\stage 2eme\\Eduman\\Admin\\Admin\\wwwroot\\uploads\\b4bd6891-7212-4fe6-a9ac-56406ffef11c_share_2023-12-28_13_48_43_154.jpeg_2023-12-28_13_48_43.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b4bd6891-7212-4fe6-a9ac-56406ffef11c_share_2023-12-28_13_48_43_154.jpeg_2023-12-28_13_48_43.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Admin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Admin.props",
+      "PackagePath": "build\\Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Admin.props",
+      "PackagePath": "buildMultiTargeting\\Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Admin.props",
+      "PackagePath": "buildTransitive\\Admin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

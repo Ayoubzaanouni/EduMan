@@ -1,0 +1,49 @@
+﻿@model Admin.Models.Depot
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Depot</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group" style="display:none">
+                <label asp-for="TimeStamp" class="control-label"></label>
+                <input asp-for="TimeStamp" class="form-control" />
+                <span asp-validation-for="TimeStamp" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="File" class="control-label"></label>
+                <div class="custom-file">
+                    <input asp-for="File" class="custom-file-input" id="cutomFile" required />
+                    <label class="custom-file-label" for="customFile">Choose file</label>
+                </div>
+                <span asp-validation-for="File" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AssignmentId" class="control-label"></label>
+                <select asp-for="AssignmentId" class ="form-control" asp-items="ViewBag.AssignmentId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="EtudiantId" class="control-label"></label>
+                <select asp-for="EtudiantId" class ="form-control" asp-items="ViewBag.EtudiantId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
